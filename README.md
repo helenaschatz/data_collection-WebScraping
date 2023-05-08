@@ -8,6 +8,7 @@ Mission to Mars - Web Scraping with HTML/CSS
 For this assignment, I have been asked to:
 
 Deliverable 1: Scrape titles and preview text from Mars news articles (https://static.bc-edx.com/data/web/mars_news/index.html);
+
 Deliverable 2: Scrape and analyze Mars weather data, which exists in a table (https://static.bc-edx.com/data/web/mars_facts/temperature.html).
 
 
