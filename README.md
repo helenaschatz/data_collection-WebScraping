@@ -6,9 +6,9 @@ Mission to Mars - data collection. In this project I extracted information via b
 
 For this assignment, I have been asked to:
 
-Deliverable 1: Scrape titles and preview text from Mars news articles (https://static.bc-edx.com/data/web/mars_news/index.html);
+<strong>Deliverable 1:</strong> Scrape titles and preview text from Mars news articles (https://static.bc-edx.com/data/web/mars_news/index.html);
 
-Deliverable 2: Scrape and analyze Mars weather data, which exists in a table (https://static.bc-edx.com/data/web/mars_facts/temperature.html).
+<strong>Deliverable 2: </strong> Scrape and analyze Mars weather data, which exists in a table (https://static.bc-edx.com/data/web/mars_facts/temperature.html).
 
 
 
