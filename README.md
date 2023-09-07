@@ -17,8 +17,8 @@ Deliverable 2: Scrape and analyze Mars weather data, which exists in a table (ht
 
 In this repository, you will find:
 
-- part_1_mars_news.ipynb: containing the code for deliverable 1 of the assignment
-- part_2_mars_weather.ipynb: containing the code for deliverable 2 of the assignment
-- mars_weather_df.csv: the CSV file with the Mars Dataframe as requested under deliverable 2 of the assignment
+- `part_1_mars_news.ipynb`: containing the code for deliverable 1 of the assignment
+- `part_2_mars_weather.ipynb`: containing the code for deliverable 2 of the assignment
+- `mars_weather_df.csv`: the CSV file with the Mars Dataframe as requested under deliverable 2 of the assignment
 
 
