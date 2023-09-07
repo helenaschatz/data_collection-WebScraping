@@ -1,6 +1,5 @@
 # data_collection-WebScraping
-Mission to Mars - Web Scraping with HTML/CSS
-
+Mission to Mars - Web-Scraping and Data Analysis. In this project I extracted information via both automated browsing with Splinter and HTML parsing with Beautiful Soup.
 
 
 ## **Data Collection Challenge**
